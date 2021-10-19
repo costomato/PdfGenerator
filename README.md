@@ -13,7 +13,7 @@ In your project level build.gradle file, add this:
 In your app level build.gradle file, add this:
 
 	dependencies {
-	        implementation 'com.github.costomato:PdfGenerator:Tag'
+	        implementation 'com.github.costomato:PdfGenerator:0.1.0'
 	}
   
 # Usage :-
